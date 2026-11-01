@@ -11,7 +11,7 @@ Dai pitagorici alla coscienza artificiale*
 ## Esercitazione Ex1.fasori
 Il codice  Python di seguito riportato, visualizza la rotazione di un fasore attorno all’origine e le sue proiezioni sull’asse x (la funzione coseno) e sull’asse y (la funzione seno). 
 
-Dopo il caricamento elle librerie necessarie, si definiscono i parametri per la visualizzazione del cerchio, degli assi cartesiani e del punto che ruota sulla circonferenza stessa.
+Dopo il caricamento delle librerie necessarie, si definiscono i parametri per la visualizzazione del cerchio, degli assi cartesiani e del punto che ruota sulla circonferenza stessa.
 
 E' possibile avviare l'animazione con i pulsanti in basso, come mostrato nella figura seguente:
 ![](https://github.com/Belcamino/Ex1.Fasore/blob/master/fasore.png?raw=true)
